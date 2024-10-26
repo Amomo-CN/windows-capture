@@ -1,0 +1,5 @@
+CMD终端运行
+
+cargo run --example cli1
+
+Ctrl+C 结束录制
